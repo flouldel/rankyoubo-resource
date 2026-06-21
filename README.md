@@ -1,2 +1,14 @@
 # rankyoubo-resource
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+页面发布任务会把结果保存到此仓库，方便统一管理。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
